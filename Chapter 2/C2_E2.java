@@ -6,5 +6,14 @@ public class C2_E2
     "take up multiple lines. Concatination makes my existence possible!";
 
     System.out.println(statement);
+
+    int max;
+    max ; // Missing =
+
+    if(a != b){
+      max = a;
+    }
+    els // Mispelling of else
+      int default = b; // Not allowed to use reserved keywords as variable names.
   }
 }
